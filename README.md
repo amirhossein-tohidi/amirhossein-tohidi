@@ -1,16 +1,16 @@
 # Hi, I'm Amirhossein Tohidi 👋
 
-## Backend (.NET) | Distributed Systems
+## Backend (.NET) | Distributed Systems | Fintech Backend
 
-Backend developer focused on distributed systems, scalable .NET services, and fintech workflows.
+I'm a .NET Backend Developer focused on building reliable and scalable backend systems.
 
-Experienced in building production-ready backend systems using Clean Architecture, CQRS, Event-Driven patterns, and messaging-based architectures.
+My main interests are distributed systems, event-driven architecture, financial transaction consistency, performance optimization, and writing maintainable production-ready services.
 
 ---
 
 ## 🚀 Featured Project
 
-### [fintech-wallet-service](https://github.com/amirhossein-tohidi/fintech-wallet-service)
+### 💳 [fintech-wallet-service 🔗](https://github.com/amirhossein-tohidi/fintech-wallet-service)
 
 A production-ready Fintech Wallet Service focused on financial consistency, reliability, and distributed transaction processing.
 
@@ -48,25 +48,31 @@ A production-ready Fintech Wallet Service focused on financial consistency, reli
 
 ## 🛠️ Technologies & Tools
 
-### Backend
+### ⚙️ Backend
 
 `.NET` · `C#` · `ASP.NET Core` · `gRPC` · `REST APIs`
 
-### Data & Messaging
+### 🗄️ Data & Messaging
 
 `SQL Server` · `PostgreSQL` · `MongoDB` · `ClickHouse` · `Redis` · `Kafka` · `RabbitMQ`
 
-### Architecture & Practices
+### 🧭 Architecture & Practices
 
 `Clean Architecture` · `DDD` · `CQRS` · `SOLID` · `Inbox/Outbox` · `Design Patterns`
 
-### Testing & DevOps
+### 🧪 Testing & DevOps
 
 `Unit Testing` · `Integration Testing` · `Gherkin` · `SpecFlow / Reqnroll` · `Docker` · `Azure DevOps` · `ArgoCD`
 
-### Monitoring
+### 📈 Monitoring
 
-`Grafana` · `Prometheus` · `Kibana` · `APM`
+`Grafana` · `Prometheus` · `Kibana` · `Elasticsearch` · `APM`
+
+### 🧰 Local Development Toolkit
+
+🐳 [docker-compose-dev-toolkit 🔗](https://github.com/amirhossein-tohidi/docker-compose-dev-toolkit)
+
+Ready-to-use Docker Compose services for local project dependencies like MongoDB, Redis, SQL Server, ClickHouse, Kafka, Vault, Elasticsearch, Prometheus, Grafana, Kibana, and APM.
 
 ---
 
@@ -86,15 +92,15 @@ I have experience working with mission-critical systems, multi-team environments
 
 ## 📌 Selected Repositories
 
-### [fintech-wallet-service](https://github.com/amirhossein-tohidi/fintech-wallet-service)
+### 💳 [fintech-wallet-service 🔗](https://github.com/amirhossein-tohidi/fintech-wallet-service)
 
 Production-ready Fintech Wallet Service with Double-entry Ledger, CQRS, Inbox/Outbox, and Event-Driven Architecture.
 
-### [person-store-microservices-sample](https://github.com/amirhossein-tohidi/person-store-microservices-sample)
+### 🧩 [person-store-microservices-sample 🔗](https://github.com/amirhossein-tohidi/person-store-microservices-sample)
 
 A lightweight microservices sample demonstrating service communication and modular backend boundaries.
 
-### [loyalty-service-clean-architecture](https://github.com/amirhossein-tohidi/loyalty-service-clean-architecture)
+### 🏗️ [loyalty-service-clean-architecture 🔗](https://github.com/amirhossein-tohidi/loyalty-service-clean-architecture)
 
 A .NET backend sample focused on Clean Architecture, DDD, REST, and gRPC.
 
@@ -102,7 +108,5 @@ A .NET backend sample focused on Clean Architecture, DDD, REST, and gRPC.
 
 ## 📫 Connect with me
 
-- 💻 GitHub: [amirhossein tohidi](https://github.com/amirhossein-tohidi)
-- 🔗 LinkedIn: [amirhossein tohidi](https://www.linkedin.com/in/amirhossein-tohidi)
-- 🧑‍💼 JobVision: [amirhossein tohidi](https://jobvision.ir/cv/54250545-172159)
-- 🧑‍💼 Jobinja: [amirhossein tohidi](https://jobinja.ir/user/amirhossein-tohidi)
+- 💻 LinkedIn: [amirhossein tohidi](https://www.linkedin.com/in/amirhossein-tohidi)
+
