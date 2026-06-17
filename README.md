@@ -96,6 +96,10 @@ I have experience working with mission-critical systems, multi-team environments
 
 Production-ready Fintech Wallet Service with Double-entry Ledger, CQRS, Inbox/Outbox, and Event-Driven Architecture.
 
+### ⚡ [aeron-low-latency-dotnet 🔗](https://github.com/amirhossein-tohidi/aeron-low-latency-dotnet)
+
+A .NET sample focused on low-latency messaging and high-performance backend communication with Aeron.
+
 ### 🧩 [person-store-microservices-sample 🔗](https://github.com/amirhossein-tohidi/person-store-microservices-sample)
 
 A lightweight microservices sample demonstrating service communication and modular backend boundaries.
